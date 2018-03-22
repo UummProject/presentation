@@ -1,7 +1,11 @@
 {
-  "main.css": "static/css/main.d23c8f26.css",
-  "main.css.map": "static/css/main.d23c8f26.css.map",
-  "main.js": "static/js/main.a5f0d6d8.js",
-  "main.js.map": "static/js/main.a5f0d6d8.js.map",
+  "main.css": "static/css/main.4ecb6448.css",
+  "main.css.map": "static/css/main.4ecb6448.css.map",
+  "main.js": "static/js/main.2f6486e3.js",
+  "main.js.map": "static/js/main.2f6486e3.js.map",
+  "static/media/CaveMan.jpg": "static/media/CaveMan.76427f4c.jpg",
+  "static/media/FreeHumans.jpg": "static/media/FreeHumans.2403faf4.jpg",
+  "static/media/HorseAnatomy.jpg": "static/media/HorseAnatomy.15badf34.jpg",
+  "static/media/Monkeys.jpg": "static/media/Monkeys.9b1bea19.jpg",
   "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
 }
